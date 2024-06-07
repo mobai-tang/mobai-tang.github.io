@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>糖柒柒的小破站</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.baimohuaqiu.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.baimohuaqiu.com/"/>
   <updated>2024-06-06T17:16:37.160Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.baimohuaqiu.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>糖柒柒</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://www.baimohuaqiu.com/posts/4a17b156.html"/>
+    <id>https://www.baimohuaqiu.com/posts/4a17b156.html</id>
     <published>2024-06-06T16:43:50.266Z</published>
     <updated>2024-06-06T17:16:37.160Z</updated>
     
